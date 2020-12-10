@@ -1,0 +1,2 @@
+# TechTalks
+Vanji is a passionate engineer and engineering leader in the software industry; he actively participates in my tech forums, meetup, and conference as a participant and a speaker to share his experience.  Over time, he has delivered conducted my workshops and delivered many tech-talks; this is a repository that consists of all the slide deck and information of his contribution to the community.
